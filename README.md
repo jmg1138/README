@@ -2,7 +2,7 @@
 
 A "Manager README" for Joshua
 
-In the spirit of [this](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe?gi=c9fee3efea74), and [this](https://soapboxhq.com/blog/management-skills/49-manager-readmes), here's a "Manager README" that has some stuff in it that might provide some insight to my "style, philosophies, expectations, communication preferences", and more.  
+In the spirit of [this](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe?gi=c9fee3efea74) and [this](https://soapboxhq.com/blog/management-skills/49-manager-readmes), here's a "Manager README" that has some stuff in it that might provide some insight to my "style, philosophies, expectations, communication preferences", and more.  
 
 ## Quotes  
 
