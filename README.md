@@ -26,5 +26,6 @@ Here are some of my favorite quotes, and help steer my thoughts at times.
 > "Everything gets interesting at the edges."
 > - twit.tv This Week In Tech episode 681
 
-> “So convenient a thing to be a reasonable creature, since it enables one to find or make a reason for every thing one has a mind to do.” > - Benjamin Franklin
+> “So convenient a thing to be a reasonable creature, since it enables one to find or make a reason for every thing one has a mind to do.”
+> - Benjamin Franklin
 
