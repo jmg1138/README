@@ -4,6 +4,12 @@ A "Manager README" for Joshua
 
 In the spirit of [this](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe?gi=c9fee3efea74) and [this](https://soapboxhq.com/blog/management-skills/49-manager-readmes), here's a "Manager README" that has some stuff in it that might provide some insight to my "style, philosophies, expectations, communication preferences", and more.  
 
+## Work Methodology  
+
+I prefer a Kanban method over a Scrum method. Although both of these methods can work well together, my work usually requires more flexibility around things that I have no control over, such as changing due dates, project scope, and priorities.  
+
+[This article](https://leankit.com/learn/kanban/kanban-vs-scrum/) from leankit.com has a decent side by side comparison of these two methodologies.  
+
 ## Quotes  
 
 Here are some of my favorite quotes that help steer my thoughts at times.  
