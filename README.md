@@ -4,11 +4,27 @@ A "Manager README" for Joshua
 
 In the spirit of [this](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe?gi=c9fee3efea74) and [this](https://soapboxhq.com/blog/management-skills/49-manager-readmes), here's a "Manager README" that has some stuff in it that might provide some insight to my "style, philosophies, expectations, communication preferences", and more.  
 
+## CSDD  
+
+Customer Service Driven Development.  
+
+I once worked as a first-party bill collector. In debt collection, you are either first-party or third-party. First-party collection is when you collects on your own debts. Third-party collection is collecting on someone else's debts. Third-party debt collectors have bad reputations for breaking the law and generally treating people horribly, maybe because they only want the money. When you are a first-party debt collector, you are not just collecting on an overdue debt, you are also interacting with your customer. Just because you are collecting on an overdue debt does not mean you forget about customer service. In fact, maintaining a high standard of customer service will probably increase your chances of collecting on the debt. The debt collector's goal is to assist the customer in repaying their debt.  
+
+One of my managers described the job as Customer Service Based Collections. It made a big impact on me at the time, and ever since I have tried to think of everything I do as Customer Service Based.  
+
+In the spirit of developement processes such as Test Driven Development (TDD), maybe this would be called Customer Service Driven Development (CSDD).  
+
+### Related articles  
+
+- [Why everyone should read support emails](https://medium.com/@simonschultzdk/why-everyone-should-read-support-emails-42ca2172e23e)  
+
 ## Work Methodology  
 
 I prefer a Kanban method over a Scrum method. Although both of these methods can work well together, my work usually requires more flexibility around things that I have no control over, such as changing due dates, project scope, and priorities.  
 
-[This article](https://leankit.com/learn/kanban/kanban-vs-scrum/) from leankit.com has a decent side by side comparison of these two methodologies.  
+### Related articles  
+
+- [Kanban vs. Scrum](https://leankit.com/learn/kanban/kanban-vs-scrum/)  
 
 ## Quotes  
 
