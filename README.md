@@ -12,7 +12,7 @@ I once worked as a first-party bill collector. In debt collection, you are eithe
 
 One of my managers described the job as Customer Service Based Collections. It made a big impact on me at the time, and ever since I have tried to think of everything I do as Customer Service Based.  
 
-In the spirit of developement processes such as Test Driven Development (TDD), maybe this would be called Customer Service Driven Development (CSDD).  
+In the spirit of development processes such as Test Driven Development (TDD), maybe this would be called Customer Service Driven Development (CSDD).  
 
 ### Related articles  
 
@@ -26,15 +26,15 @@ Software development is more like creation, and less like construction. Terms an
 
 Most work methodologies used during software development are going to require planning, but that planning can't just be timelines and due dates. Sometimes planning doesn't need timelines or due dates.  
 
-I am not a sports ball expert, but I imagine that when professional sports ball players are preparing for a sports ball game their managers don't ask them to put too much effort into predicting exact timelines of how the game will play out and the exact final points total. Of course, there are people who plan things around the actual gameplay, like TV schedules, and they might want an estimate of how long the game will play out. But the sports ball players aren't responsible for making those estimates, and they aren't graded or valued based on how accurate those estimates turn out to be. The players prepare by doing things like getting their "head in the game", training, staying healthy and well rested, and minimizing stress. They lean on their teammates __and__ competitors for advice, support, and motivation.  
+I am not a sports ball expert, but I imagine that when professional sports ball players are preparing for a sports ball game their managers don't ask them to put too much effort into predicting exact timelines of how the game will play out and the exact final points total. Of course, there are people who plan things around the actual game play, like TV schedules, and they might want an estimate of how long the game will play out. But the sports ball players aren't responsible for making those estimates, and they aren't graded or valued based on how accurate those estimates turn out to be. The players prepare by doing things like getting their "head in the game", training, staying healthy and well rested, and minimizing stress. They lean on their teammates __and__ competitors for advice, support, and motivation.  
 
 Trying to pin down exact timelines and points totals before the game starts is something a gambling bookie might focus on so that they can maximize their profits. In this way, the gambling bookie seems to have a lot in common with someone who seeks out exact timelines for a potential software project. But once again, the gambling bookie wouldn't ask the professional sports ball players to make those estimates.  
 
-Sofware development is also like a road trip where you can know the car (mileage, speed etc), and the destination, but not the route. You have to start the road trip and then monitor progress before you can really make an estimate that has any value.  
+Software development is also like a road trip where you can know the car (mileage, speed etc), and the destination, but not the route. You have to start the road trip and then monitor progress before you can really make an estimate that has any value.  
 
 But IMHO, none of these metaphors are quite as good as the metaphor of artistic creation. How do professional creative artists plan their projects? Do they have battle tested methodologies that can be used in software planning? Yes. A web search for design methods will reveal some great results. One from [Zurb](https://zurb.com/word/design-process) is to Define, Ideate, Prototype, Build, and Analyze. [John Chris Jones](https://en.wikipedia.org/wiki/John_Chris_Jones) said of design methodology that _"... it's not another way of doing design, you see, it's a way of doing what designers don't do at all."_ and he wanted to integrate design rationality with design intuition. He also said _"New needs grow and old needs decay"_, which I feel fits with software development closely. As soon as the project starts, new needs begin growing that weren't apparent before, and old needs that estimates were based on begin to decay.  
 
-Sofware development projects can succeed as a partnership of creation if all parties involved can agree that it is a creative endeavor which requires a creative design methodology, and that it is not a linearly cumulative construction project.  
+Software development projects can succeed as a partnership of creation if all parties involved can agree that it is a creative endeavor which requires a creative design methodology, and that it is not a linearly cumulative construction project.  
 
 #### Related articles  
 
