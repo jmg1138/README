@@ -40,6 +40,7 @@ Software development projects can succeed as a partnership of creation if all pa
 
 - [Software Development as a Creative Process](https://skookum.com/blog/software-development-as-a-creative-process)  
 - [Design Process](https://zurb.com/word/design-process)  
+- [Design methods](https://en.wikipedia.org/wiki/Design_methods)  
 
 ### Project Management Frameworks  
 
