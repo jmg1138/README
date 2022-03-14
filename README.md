@@ -50,6 +50,11 @@ I prefer a Kanban method over a Scrum method. Although both of these methods can
 
 - [Kanban vs. Scrum](https://leankit.com/learn/kanban/kanban-vs-scrum/)  
 
+## Favorite Bookmarks  
+
+- [Don't Just Say "Hello" in Chat.](https://nohello.com)  
+- [Hackers and Painters](http://www.paulgraham.com/hp.html)  
+
 ## Quotes  
 
 Here are some of my favorite quotes that help steer my thoughts at times.  
